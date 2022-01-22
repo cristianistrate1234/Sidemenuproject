@@ -9,3 +9,5 @@ function closeFunction(){
     document.getElementById("mainbox").style.marginLeft = "0px";
     document.getElementById("mainbox").innerHTML = "&#9776;";
 }
+
+console.log("test");
